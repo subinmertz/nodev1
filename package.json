@@ -1,0 +1,23 @@
+{
+  "name": "nodev1",
+  "version": "1.0.0",
+  "description": "testing nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subinmertz/nodev1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "example"
+  ],
+  "author": "subin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subinmertz/nodev1/issues"
+  },
+  "homepage": "https://github.com/subinmertz/nodev1"
+}
